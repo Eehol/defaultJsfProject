@@ -18,4 +18,5 @@ You need to deploy it on your server (e.g. for wildfly you can deploy into the "
 Once it's deployed, you can browse to http://localhost:8080/webapp/index.jsf. 
 If you see the following text, you have successfully deployed the application :
 JSF2 Hello homepage
+
 Hello World !
