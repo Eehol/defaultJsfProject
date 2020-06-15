@@ -40,7 +40,7 @@
 		<junit.version>4.11</junit.version>
 		<slf4j.version>1.7.25</slf4j.version>
 		<commons-lang3.version>3.9</commons-lang3.version>
-		<commons-collections4.version>4.0</commons-collections4.version>
+		<commons-collections4.version>4.1</commons-collections4.version>
 		<powermockito.version>1.6.4</powermockito.version>
 		<primefaces.version>7.0</primefaces.version>
 		<jsf-api.version>2.1</jsf-api.version>
