@@ -9,6 +9,10 @@
 		<servlet-class>javax.faces.webapp.FacesServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
+		<servlet-name>faces-servlet-name</servlet-name>
+		<url-pattern>/faces/*</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
 		<servlet-name>facesServlet</servlet-name>
 		<url-pattern>*.jsf</url-pattern>
 	</servlet-mapping>
